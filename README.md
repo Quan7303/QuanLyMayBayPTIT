@@ -4,7 +4,8 @@
 - Chuyến bay : danh sách liên kết đơn ( Mã CB (C15),  Ngày giờ khởi hành, sân bay đến , trạng thái, Số hiệu MB, danh sách vé).
 - Mỗi chuyến bay có 1 mã duy nhất; trạng thái chuyến bay bao gồm: 0: hủy chuyến, 1: còn vé, 2: hết vé,3: hoàn tất ; danh sách vé cho biết thông tin vé trên chuyến bay, và số CMND của hành khách đã đặt vé đó. Mỗi vé có  số vé  là số thứ tự trên chuyến từ số 1 đến số chỗ. Danh sách chuyến bay luôn có sẵn thứ tự theo mã chuyến bay.
 - Hành khách: cây nhị phân tìm kiếm (Số CMND , Ho, Ten,  Phai)
-Chương trình có các chức năng sau: 
+Chương trình có các chức năng sau:
+
 a/ Cập nhập danh sách các máy bay (thêm / xóa / hiệu chỉnh)
 
 b/ Cập nhật chuyến bay: cho phép lập chuyến bay mới, hiệu chỉnh ngày giờ khởi hành của chuyến bay , hủy chuyến.
@@ -19,7 +20,10 @@ DANH SÁCH HÀNH KHÁCH THUỘC CHUYẾN BAY ######
 Ngày giờ khởi hành: dd/mm/yyyy hh:mm.  Nơi đến : xxxxxxxxxxx
 
 	STT	SỐ VÉ		SỐ CMND	HỌ TÊN	PHÁI
+ 
 f/ In danh sách các chuyến bay khởi hành trong  ngày dd/mm/yyyy đến nơi XXXX mà còn vé (cho biết cụ thể số lượng các vé còn trống và giờ khởi hành)
+
 g/ In danh sách các vé còn trống của 1 chuyến bay có mã chuyến bay là X. 
+
 h/ Thống kê số lượt thực hiện chuyến bay của từng máy bay theo thứ tự  số lượt thực hiện giảm dần. Kết xuất:
 	Số hiệu máy bay		Số lượt thực hiện chuyến bay
