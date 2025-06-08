@@ -1,0 +1,26 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Build and run c++ active file",
+            "command": "Start-Process",
+            "args": [
+                "-FilePath",
+                "\"cmd.exe\"",
+                "-ArgumentList",
+                "/c if exist ${fileBasenameNoExtension}.exe (del ${fileBasenameNoExtension}.exe &g++ ${fileBasenameNoExtension}.cpp -o ${fileBasenameNoExtension}.exe &${fileBasenameNoExtension}.exe &echo. &pause) else (g++ ${fileBasenameNoExtension}.cpp -o ${fileBasenameNoExtension}.exe &${fileBasenameNoExtension}.exe &echo. &pause)"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

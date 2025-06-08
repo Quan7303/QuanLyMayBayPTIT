@@ -1,0 +1,677 @@
+169
+147104
+Nguyen Thuy
+Linh
+2
+147048
+Khuc Ngoc
+Hien
+2
+147015
+Do Thien
+Binh
+1
+146033
+Tran Ngoc
+Mai
+2
+105200
+Thanh Non
+Phong
+1
+10203
+Le Ly
+Ly
+1
+066205013131
+Nguyen Gia
+Quan
+1
+066205013132
+Le Chieu
+Thong
+1
+066205013133
+Hua Khanh
+Linh
+2
+123456
+Ha Van
+Nong
+1
+121212
+Le Ba
+Thuan
+1
+111111
+Ly Thai
+To
+2
+110905
+Pham Nguyen
+Trieu
+1
+111111111
+Luu Van
+Tuan
+1
+111111111111
+Ho Duy
+Nhat
+1
+123123
+Ha Nong Van
+Sang
+1
+123123123
+Mot Hai
+Ba
+1
+131415
+Dao Van
+Khoa
+2
+123789
+Ha Van
+Tuan
+1
+131313
+Le Cong
+Chinh
+1
+141414
+Chi Muoi
+Bon
+2
+147002
+Truong Minh
+An
+2
+147003
+Dang Tuan
+Anh
+1
+147009
+Tran Nhat
+Anh
+1
+147006
+Pham Minh
+Tuan
+1
+147008
+Tran Ba
+Tien
+1
+147012
+Luong Thai
+Bao
+1
+147011
+Duong Quoc
+Bao
+1
+147030
+Nguyen Khanh
+Duy
+1
+147023
+Dang Thuy
+Tien
+2
+147021
+Nguyen Chung
+Chanh
+1
+147016
+Huynh Canh
+Canh
+1
+147027
+Nguyen Huyen
+Diu
+2
+147024
+Nguyen Van
+Chung
+1
+147029
+Nguyen Anh
+Duy
+1
+147039
+Nguyen Hai
+Dang
+1
+147036
+Le Phuoc
+Dat
+1
+147035
+Anna Emma
+Emma
+2
+147045
+Ngo Thu
+Ha
+2
+147042
+Nguyen Cong
+Dinh
+2
+147046
+Jonnie Deep
+Deep
+1
+147075
+Ton Thi
+Hue
+2
+147059
+Le Cong
+Hau
+1
+147054
+Le Ngoc
+Hai
+1
+147050
+Vu Tuyet
+Tuyet
+2
+147051
+Nguyen Huy
+Giap
+1
+147056
+Pussy Cat
+Doll
+2
+147055
+Peter Parker
+Parker
+1
+147057
+Nguyen Van
+Han
+1
+147066
+Nguyen Xuan
+Hieu
+1
+147062
+Truong Nguyen
+Trung
+1
+147060
+Nguyen Dang
+Hau
+1
+147063
+Hua Hoang
+Hiep
+1
+147072
+Nguyen Vinh
+Hoang
+1
+147068
+Dinh Viet
+Hoang
+1
+147074
+Nguyen Minh
+Huan
+1
+147093
+Luong Dinh
+Khang
+1
+147081
+Nguyen Ta
+Huy
+1
+147078
+Do Phuoc
+Huy
+1
+147077
+Doan Nhat
+Huy
+1
+147080
+Nguyen Quang
+Huy
+1
+147087
+Ho Ngoc
+Minh
+1
+147084
+Nguyen Huynh
+Huynh
+1
+147090
+Nguyen Minh
+Kiet
+1
+147100
+Nguyen Thanh
+Phong
+1
+147098
+Huynh Quoc
+Khanh
+1
+147096
+Hoang Quoc
+Khanh
+1
+147099
+Le Ba
+Khanh
+1
+147102
+Hoang Thanh
+Lam
+1
+999999
+Le Ba
+Long
+1
+147170
+Huynh Ngoc
+Sang
+1
+147141
+Nguyen Long
+Nhat
+1
+147126
+Ha Thi
+Mo
+2
+147114
+Tran Phi
+Long
+1
+147108
+Nguyen Hoang
+Long
+1
+147105
+Vu Ngoc
+Linh
+1
+147111
+Pham Hoang
+Long
+1
+147117
+Le Ngoc
+Hoai
+2
+147116
+Vo Nguyen
+Long
+1
+147123
+Tran Viet
+Manh
+1
+147132
+Mai Ky
+Nguyen
+1
+147129
+Nguyen Hai
+Nam
+1
+147128
+Do Van
+Nam
+1
+147131
+Huynh Hieu
+Minh
+1
+147137
+Nguyen Trong
+Nhan
+1
+147135
+Nguyen Phuc
+Nhanh
+1
+147138
+Nguyen Trong
+Dai
+1
+147155
+Pham Hoang
+Phuc
+1
+147149
+Tu Thai
+Phong
+1
+147146
+Luu Tien
+Phat
+1
+147144
+Nguyen Lam
+Nhu
+2
+147147
+Nguyen Thanh
+Phong
+1
+147153
+Do Huynh
+Hong
+1
+147150
+Luong Vi
+Phu
+1
+147154
+Pham Phu
+Phuc
+1
+147161
+Nguyen Minh
+Quan
+1
+147158
+Hoang Thanh
+Quang
+1
+147156
+Tran Minh
+Phuc
+1
+147159
+Pham Minh
+Quang
+1
+147165
+Pham Minh
+Quoc
+1
+147162
+Dau Truong
+Quan
+1
+147168
+Phan Quang
+Quy
+1
+157006
+Kieu Huynh
+Tung
+2
+155555
+John Wick
+Wick
+1
+147180
+Nguyen Duc
+Tam
+1
+147174
+Tran Ngoc
+Sang
+1
+147171
+Huynh Phuoc
+Sang
+1
+147177
+Tran Phuoc
+Tai
+1
+147185
+Le Quoc
+Tan
+1
+147183
+Truong Minh
+Tan
+1
+150007
+Marie Carrie
+Carrie
+2
+157003
+Duong Pham
+Tong
+1
+157002
+Nguyen Chi
+Tin
+1
+157001
+Ngo Sy
+Tien
+1
+157005
+Bui Van
+Tuan
+1
+157004
+Nguyen Ngoc
+Tu
+1
+157010
+Chau Thai
+Phong
+1
+157008
+Van Duc
+Thanh
+1
+157007
+Phung Ngoc
+Thach
+1
+157009
+Mai Duc
+Thang
+1
+157014
+Mac Van
+Sy
+2
+157012
+Huynh Phan
+Trung
+1
+157011
+Nguyen Ngoc
+Trinh
+2
+157013
+Tran Quang
+Vinh
+1
+666666
+The Tran
+Devil
+2
+555555
+Cho Ngu John
+Kennedy
+1
+222222
+Ho Thai
+Lyen
+2
+171717
+Chi Muoi
+Bay
+2
+212121212121
+Ngo Van
+Quyen
+1
+345876
+Chuong Van
+Ba
+1
+222223
+Nguyen Ngoc
+Ha
+2
+222222222222
+Luu Van
+Tuan
+1
+222222222
+Ha Van
+Khoi
+1
+345789
+Le Van
+Long
+1
+345345
+Ly Thi
+Nha
+2
+333333
+Nguyen Gia
+Quan
+1
+281205
+Hua Khanh
+Linh
+2
+232323232323
+Hai Thi
+Ba
+2
+333333333333
+Nguyen Phuc
+Du
+1
+345543
+Do The
+Nhan
+1
+444444
+Le Thi
+Tu
+2
+353535
+Dao Phi
+Hung Dien
+2
+414141414141
+Bo Van
+Mot
+1
+456456
+Le
+Duan
+1
+444444444444
+Lo Thi
+Bon
+2
+454545454545
+Le Chien
+Huu
+1
+456654
+Hoang Van
+Khoi
+1
+456789
+Mac Van
+Khoa
+2
+464646
+Nong Thi
+Ly
+2
+662050
+Nguyen Da
+Quan Dz
+1
+565656
+Le Thi
+Bay
+2
+555555555555
+Le Ba
+Luc
+1
+575757
+Le Cong
+Vinh
+1
+567567
+Le Viet
+Bong
+1
+567234
+Luu Van
+Ha
+0
+567765
+Ly Thanh
+Tong
+1
+777777
+Nguyen Ngoc
+Trinh
+2
+676767
+Le Van
+Ba
+1
+666666666666
+Duong Thi
+Sau
+1
+686868
+Nguyen Phuc
+Du
+1
+678678
+Ha Van
+Khoi
+1
+678876
+Ha Van
+Khoi
+1
+789456
+Nong Van
+Tua
+1
+787878
+Le Chi
+Long
+1
+888888
+Le Hong
+Phong
+1
+909090
+Luu Van
+Tuan
+1
+898989
+Tran Nhan
+Tong
+1
+888888888888
+Ngo Van
+Tam
+1
+999999999999
+Chin So
+Chin
+1
