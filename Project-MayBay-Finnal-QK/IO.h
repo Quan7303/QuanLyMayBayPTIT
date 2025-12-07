@@ -119,11 +119,12 @@ void ReadFlightFileFromFile(ListCB &LCB, ListMayBay &dsmb)
 	{
 		int nFlight;
 		filein >> nFlight;
-		getline(filein, tmp);
+		// getline(filein, tmp);
 		for (int j = 0; j < nFlight; j++)
 		{
-			if (strcmp(cb.MaCB, "") == 0)
-				break;
+			getline(filein, tmp);
+			// if (strcmp(cb.MaCB, "") == 0)
+			// 	break;
 			filein.getline(cb.MaCB, 15, '\n');
 			filein.getline(cb.SanBayDen, 20, '\n');
 			filein.getline(cb.SoHieuMB, 15, '\n');
@@ -134,7 +135,7 @@ void ReadFlightFileFromFile(ListCB &LCB, ListMayBay &dsmb)
 			filein >> cb.TimeDi.y;
 			filein >> cb.SoVe;
 			filein >> cb.TrangThai;
-			getline(filein, tmp);
+
 			TuDongCapNhatTrangThai(LCB);
 			for (i = 0; i < dsmb.SoLuong; i++)
 			{
